@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Indus River Valley",
+		"leaderName": "Indus Traveler",
+		"adjective": ["Meluhhan"],
+		"startBias": ["River","Desert"],
+		"preferredVictoryType": "Cultural","Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We encounter each other!",
+		"startIntroPart2": "May this be the start of a prosperous community. Shall we embrace civilization together?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "It is unfortunate it has come to this... The people have gathered against you.",
+		"attacked": "You want to attack the people? Together I'm sure they can repel you.",
+		"defeated": "It is sad we would be enslaved and erased. It was good while it lasted.",
+		"introduction": "Greetings from the 'Indus River Valley'. Civilization is nice isn't it?",
 		
 		"neutralHello": "How are you doing?",
 		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,17 +24,16 @@
 		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
+		//"afterPeace": "It is fortunate things would resolve for the better.",
+		"tradeRequest": "We believe this would be mutually beneficial.",
+		"denounced": "Your insults disperse across the realm.",
 		"declaringfriendship": "Let us become like friends!",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"favoredReligion": "Hindu",
+		"uniqueName": "Decentralized Civilization",
+		"uniques": ["[+2] Movement <for [Water] units>","[+75]% Production towards any buildings that already exist in the Capital","Each city founded increases culture cost of policies [+80]% less than normal","Each city founded increases Science cost of Technologies [+80]% less than normal","[+80]% unhappiness from the number of cities","[+50]% growth [in all cities]","[+50]% Culture cost of natural border growth [in all cities]","[+50]% [Culture] from Trade Routes","[+50]% [Science] from Trade Routes","[+50]% [Gold] from Trade Routes"],
+		"cities": ["Harrapa","Ganeriwala","Mohenjo-daro","Dholavira","Kalibangan","Rakhigarhi","Rupar","Lothal","Banawali","Kot Diji"]
 	}
 ]
