@@ -4,7 +4,7 @@
 		"leaderName": "Indus Traveler",
 		"adjective": ["Meluhhan"],
 		"startBias": ["River","Desert"],
-		"preferredVictoryType": "Cultural","Scientific",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "We encounter each other!",
 		"startIntroPart2": "May this be the start of a prosperous community. Shall we embrace civilization together?",
@@ -32,8 +32,9 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"favoredReligion": "Hindu",
-		"uniqueName": "Decentralized Civilization",
-		"uniques": ["[+2] Movement <for [Water] units>","[+75]% Production towards any buildings that already exist in the Capital","Each city founded increases culture cost of policies [+80]% less than normal","Each city founded increases Science cost of Technologies [+80]% less than normal","[+80]% unhappiness from the number of cities","[+50]% growth [in all cities]","[+50]% Culture cost of natural border growth [in all cities]","[+50]% [Culture] from Trade Routes","[+50]% [Science] from Trade Routes","[+50]% [Gold] from Trade Routes"],
+		"uniqueName": "Decentralized River Civilization",
+		"uniques": ["[+2] Movement <for [Embarked] units>","[+50]% Production towards any buildings that already exist in the Capital","Each city founded increases culture cost of policies [+50]% less than normal","Each city founded increases Science cost of Technologies [+50]% less than normal","[-100]% unhappiness from the number of cities","[+50]% growth [in all cities]","[-50]% Culture cost of natural border growth [in all cities]","[+50]% [Culture] from Trade Routes","[+50]% [Science] from Trade Routes","[+25]% [Gold] from Trade Routes"],"[+90]% Production cost of [Military] units",=[+90]% Gold cost for [Military] units"
 		"cities": ["Harrapa","Ganeriwala","Mohenjo-daro","Dholavira","Kalibangan","Rakhigarhi","Rupar","Lothal","Banawali","Kot Diji"]
+		"uniqueUnits": ["Indus Traveller"]
 	}
 ]
