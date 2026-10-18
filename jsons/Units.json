@@ -1,17 +1,28 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Indus River Scout",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"uniqueTo": "Indus River Valley",
+		"replaces": "Scout",
+		"movement": 3,
+		"strength": 5,
+		"rangedStrength": 5,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"cost": 15,
+		"requiredTech": "Agriculture",
+		"uniques": ["[1] Movement point cost to disembark","[1] Movement point cost to embark","Double movement in [River]","Double movement in [Coast]","May attack when embarked","[+15] Ranged Strength <during the [Classical Era] era>","[+25] Ranged Strength <during the [Medieval Era] era>","[+35] Ranged Strength <during the [Renaissance Era] era>","[+45] Ranged Strength <during the [Industrial Era] era>","[+55] Ranged Strength <during the [Modern] era>","[+65] Ranged Strength <during the [Atomic Era] era>","[+75] Ranged Strength <during the [Information Era] era>","[+85] Ranged Strength <during the [Future Era] era>",],
+		"promotions": ["Amphibious","Exploration","Ignores Terrain Cost","Embarkation with Ocean Movement","Extra Sight While Embarked","War Canoes","Can Move After Attacking"],
 		"attackSound": "phasers"
 	}
+	{
+	"name": "Indus River Settler",
+		"unitType": "Civilian",
+		"uniqueTo": "Indus River Valley",
+		"replaces": "Settler",
+		"movement": 3,
+		"cost": 86,
+		"requiredTech": "Agriculture",
+		"uniques": ["Founds a new city <by consuming this unit>","Excess Food converted to Production when under construction","Requires at least [2] population""[1] Movement point cost to disembark","[1] Movement point cost to embark","Double movement in [River]","Double movement in [Coast]",
+			"[+15] Ranged Strength <during the [Classical Era] era>","[+25] Ranged Strength <during the [Medieval Era] era>","[+35] Ranged Strength <during the [Renaissance Era] era>","[+45] Ranged Strength <during the [Industrial Era] era>","[+55] Ranged Strength <during the [Modern] era>","[+65] Ranged Strength <during the [Atomic Era] era>","[+75] Ranged Strength <during the [Information Era] era>","[+85] Ranged Strength <during the [Future Era] era>",],
+		"promotions": ["Exploration","Ignores Terrain Cost","Embarkation with Ocean Movement","Extra Sight While Embarked",
 ]
