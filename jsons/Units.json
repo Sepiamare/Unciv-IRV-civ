@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Indus River Scout",
+		"name": "Indus River Wanderer",
 		"unitType": "Ranged",
 		"uniqueTo": "Indus River Valley",
 		"replaces": "Scout",
 		"movement": 3,
-		"strength": 5,
+		"strength": 3,
 		"rangedStrength": 5,
 		"range": 2,
-		"cost": 15,
+		"cost": 45,
 		"requiredTech": "Agriculture",
-		"uniques": ["[1] Movement point cost to disembark","[1] Movement point cost to embark","Double movement in [River]","Double movement in [Coast]","May attack when embarked","[+15] Ranged Strength <during the [Classical Era] era>","[+25] Ranged Strength <during the [Medieval Era] era>","[+35] Ranged Strength <during the [Renaissance Era] era>","[+45] Ranged Strength <during the [Industrial Era] era>","[+55] Ranged Strength <during the [Modern] era>","[+65] Ranged Strength <during the [Atomic Era] era>","[+75] Ranged Strength <during the [Information Era] era>","[+85] Ranged Strength <during the [Future Era] era>",],
-		"promotions": ["Amphibious","Exploration","Ignores Terrain Cost","Embarkation with Ocean Movement","Extra Sight While Embarked","War Canoes","Can Move After Attacking"],
+		"uniques": ["Double movement in [River]","Double movement in [Coast]","May attack when embarked","[+5] Ranged Strength <during the [Classical Era] era>","[+10] Ranged Strength <during the [Medieval Era] era>","[+15] Ranged Strength <during the [Renaissance Era] era>","[+20] Ranged Strength <during the [Industrial Era] era>","[+45] Ranged Strength <during the [Modern] era>","[+60] Ranged Strength <during the [Atomic Era] era>","[+65] Ranged Strength <during the [Information Era] era>","[+70] Ranged Strength <during the [Future Era] era>","[+5] Strength <during the [Classical Era] era>","[+7] Strength <during the [Medieval Era] era>","[+10] Strength <during the [Renaissance Era] era>","[+20] Strength <during the [Industrial Era] era>","[+35] Strength <during the [Modern] era>","[+45] Strength <during the [Atomic Era] era>","[+50] Strength <during the [Information Era] era>","[+60] Strength <during the [Future Era] era>","[+75]% production cost <during the [Classical Era] era>","[+185]% production cost <during the [Medieval Era] era>","[+325]% production cost <during the [Renaissance Era] era>","[+525]% production cost <during the [Industrial Era] era>","[+650]% production cost <during the [Modern] era>","[+750]% production cost <during the [Atomic Era] era>","[+865]% production cost <during the [Information Era] era>","[+900]% production cost <during the [Future Era] era>"],
+		"promotions": ["Amphibious","Exploration","Ignores Terrain Cost","Extra Sight While Embarked","War Canoes","Can Move After Attacking"],
 		"attackSound": "phasers"
 	}
 	{
@@ -20,9 +20,8 @@
 		"uniqueTo": "Indus River Valley",
 		"replaces": "Settler",
 		"movement": 3,
-		"cost": 86,
+		"cost": 126,
 		"requiredTech": "Agriculture",
-		"uniques": ["Founds a new city <by consuming this unit>","Excess Food converted to Production when under construction","Requires at least [2] population""[1] Movement point cost to disembark","[1] Movement point cost to embark","Double movement in [River]","Double movement in [Coast]",
-			"[+15] Ranged Strength <during the [Classical Era] era>","[+25] Ranged Strength <during the [Medieval Era] era>","[+35] Ranged Strength <during the [Renaissance Era] era>","[+45] Ranged Strength <during the [Industrial Era] era>","[+55] Ranged Strength <during the [Modern] era>","[+65] Ranged Strength <during the [Atomic Era] era>","[+75] Ranged Strength <during the [Information Era] era>","[+85] Ranged Strength <during the [Future Era] era>",],
+		"uniques": ["Founds a new city <by consuming this unit>","Excess Food converted to Production when under construction","Requires at least [2] population","[1] Movement point cost to disembark","[1] Movement point cost to embark","Double movement in [River]","Double movement in [Coast]",
 		"promotions": ["Exploration","Ignores Terrain Cost","Embarkation with Ocean Movement","Extra Sight While Embarked",
 ]
