@@ -3,7 +3,7 @@
 		"name": "Indus River Valley",
 		"leaderName": "Indus Traveler",
 		"adjective": ["Meluhhan"],
-		"startBias": ["River","Mountain"],
+		"startBias": ["River","Mountain","Flood plains"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Though little is known of the people within the settlements of the Indus River Valley, their presence is felt through the many ruins left behind by some of humanities earliest attempts at forming civilization.",
