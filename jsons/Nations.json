@@ -15,16 +15,16 @@
 		"introduction": "Greetings from the Indus River Valley. Civilization is nice isn't it?",
 		
 		"neutralHello": "How are you doing? Today finds you well I hope.",
-		//"neutralLetsHearIt": ["Let's hear it.","What is it you say?","We are listening."],
-		//"neutralNo": ["We cannot oblige.","No thank you.","I must refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["Let's hear it.","What is it you say?","We are listening."],
+		"neutralNo": ["We cannot oblige.","No thank you.","I must refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		//"afterPeace": "It is fortunate things would resolve for the better.",
+		"afterPeace": "It is fortunate things would resolve for the better.",
 		"tradeRequest": "We believe this would be mutually beneficial.",
 		"denounced": "Your insults disperse across the realm.",
 		"declaringfriendship": "Let us become like friends!",
