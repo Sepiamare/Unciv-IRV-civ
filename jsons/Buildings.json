@@ -1,25 +1,27 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Decentralized Communities",
+		"replaces": "Palace",
+		"uniqueTo": "Indus Valley",
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"production": 1,
+		"science": 1,
+		"gold": 1,
+		"culture": 1,
+		"cityHealth": 50,
+		"cost": 0,
+		"uniques": ["[+1 Production, +1 Science, +1 Gold, +1 Culture] [in all cities]","Indicates the capital city"],
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Canal Networks",
+		"replaces": "Water Mill",
+		"uniqueTo": "Indus Valley",
+		"food": 2,
+		"production": 1,
+		"uniques": ["[+1 Food, +1 Production] from [River] tiles [in this city]","[+2 Food, +2 Production] from [Flood plains] tiles [in this city]","Must be on [River]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"percentStatBonus": {"food": 10},{"production": 10}
+		"requiredTech": "The Wheel"
 	}
 ]
