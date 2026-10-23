@@ -11,8 +11,8 @@
 		"cost": 15,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Scientific Theory",
-		"uniques": ["Double movement in [River]","Double movement in [Coast]","May attack when embarked","May upgrade to [Archer] through ruins-like effects"]
-		"promotions": ["Ignores Terrain Cost","War Canoes","Amphibious","Exploration","Can Move After Attacking"]
+		"uniques": ["Double movement in [River]","Double movement in [Coast]","May attack when embarked","May upgrade to [Archer] through ruins-like effects"],
+		"promotions": ["Ignores Terrain Cost","War Canoes","Amphibious","Exploration","Can Move After Attacking"],
 		"attackSound": "arrow"
 	}
 	{
@@ -23,6 +23,6 @@
 		"movement": 3,
 		"cost": 120,
 		"requiredTech": "Agriculture",
-		"uniques": ["Founds a new city <by consuming this unit>","Excess Food converted to Production when under construction","Requires at least [2] population","[1] Movement point cost to disembark","[1] Movement point cost to embark","Double movement in [River]","Double movement in [Coast]"]
-		"promotions": ["Exploration","Ignores Terrain Cost","Embarkation with Ocean Movement","Extra Sight While Embarked"]
+		"uniques": ["Founds a new city <by consuming this unit>","Excess Food converted to Production when under construction","Requires at least [2] population","[1] Movement point cost to disembark","[1] Movement point cost to embark","Double movement in [River]","Double movement in [Coast]"],
+		"promotions": ["Exploration","Ignores Terrain Cost","Embarkation with Ocean Movement","Extra Sight While Embarked"],
 ]
