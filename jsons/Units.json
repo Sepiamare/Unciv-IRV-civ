@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Indus River Wanderer",
+		"name": "Indus Valley Wanderer",
 		"unitType": "Scout",
-		"uniqueTo": "Indus River Valley",
+		"uniqueTo": "Indus Valley",
 		"replaces": "Scout",
 		"movement": 3,
 		"strength": 5,
@@ -16,9 +16,9 @@
 		"attackSound": "arrow"
 	}
 	{
-	"name": "Indus River Settler",
+	"name": "Indus Valley Settler",
 		"unitType": "Civilian",
-		"uniqueTo": "Indus River Valley",
+		"uniqueTo": "Indus Valley",
 		"replaces": "Settler",
 		"movement": 3,
 		"cost": 120,
