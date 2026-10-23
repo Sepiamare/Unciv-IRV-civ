@@ -4,6 +4,7 @@
 		"unitType": "Scout",
 		"uniqueTo": "Indus Valley",
 		"replaces": "Scout",
+		"upgradesTo": "Archer"
 		"movement": 3,
 		"strength": 5,
 		"rangedStrength": 5,
@@ -12,9 +13,9 @@
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Scientific Theory",
 		"uniques": ["Double movement in [River]","Double movement in [Coast]","May attack when embarked","May upgrade to [Archer] through ruins-like effects"],
-		"promotions": ["Ignores Terrain Cost","War Canoes","Amphibious","Exploration","Can Move After Attacking"],
+		"promotions": ["Ignores Terrain Cost","Exploration","Embarkation with Defense","Can Move After Attacking"],
 		"attackSound": "arrow"
-	}
+	},
 	{
 	"name": "Indus Valley Settler",
 		"unitType": "Civilian",
