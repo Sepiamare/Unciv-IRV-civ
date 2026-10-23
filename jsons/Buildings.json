@@ -21,7 +21,7 @@
 		"uniques": ["[+1 Food, +1 Production] from [River] tiles [in this city]","[+2 Food, +2 Production] from [Flood plains] tiles [in this city]","Must be on [River]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"percentStatBonus": {"food": 10},{"production": 10}
-		"requiredTech": "The Wheel"
+		"percentStatBonus": {"food": 10},{"production": 10},
+		"requiredTech": "The Wheel",
 	}
 ]
