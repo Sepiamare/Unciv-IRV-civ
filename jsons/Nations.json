@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Indus River Valley",
+		"name": "Indus Valley",
 		"leaderName": "Indus Traveler",
 		"adjective": ["Meluhhan"],
-		"startBias": ["River","Mountain","Flood plains"],
+		"startBias": ["River","Flood plains"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Though little is known of the people within the settlements of the Indus River Valley, their presence is felt through the many ruins left behind by some of humanities earliest attempts at forming civilization.",
+		"startIntroPart1": "Though little is known of the people within the settlements of the Indus Valley, their presence is felt through the many ruins left behind by some of humanities earliest attempts at forming civilization.",
 		"startIntroPart2": "May this be the start of a great rise of your people. Shall we embrace civilization together?",
 		
 		"declaringWar": "It is unfortunate it has come to this... The people have gathered against you.",
@@ -33,8 +33,9 @@
 		"innerColor": [255,200,200],
 		"favoredReligion": "Hindu",
 		"uniqueName": "Decentralized River Civilization",
-		"uniques": ["[+2] Movement <for [Embarked] units>","[200]% Strength <for [Embarked] units>","[1] Movement point cost to embark","[1] Movement point cost to disembark","Enables embarkation for land units","Enables [Embarked] units to enter ocean tiles","[+100]% Production cost of [Military] units","[+100]% Gold cost for [Military] units","[+100]% Faith cost for [Military] units","[+50]% Production towards any buildings that already exist in the Capital","Each city founded increases culture cost of policies [+50]% less than normal","Each city founded increases Science cost of Technologies [+50]% less than normal","[-50]% unhappiness from the number of cities","[+50]% growth [in all cities]","[-50]% Culture cost of natural border growth [in all cities]","[+1] [Faith] from Trade Routes","[+1] [Production] from Trade Routes","[+1] [Science] from Trade Routes","[+1] [Culture] from Trade Routes","[+1] [Food] from Trade Routes"]
-		"cities": ["Harrapa","Ganeriwala","Mehrgarh","Dholavira","Lothal","Kalibangan","Mohenjo-daro","Kot Bala","Rakhigarhi","Balu","Rupar","Banawali","Kot Diji","Sanauli","Chanhudaro","Surkotada","Manda","Sutkagan Dor","Alamgirpur","Daimabad","Shortugai","Bhirrana","Kunal","Tigrana","Juni Kuran","Khirsara","Shikarpur","Rehman Dheri","Allahdino","Gola Dhoro","Baror"]
-		"uniqueUnits": ["Indus River Wanderer","Indus River Settler"]
+		"uniques": ["[+2] Movement <for [Embarked] units>","[200]% Strength <for [Embarked] units>","[1] Movement point cost to embark","[1] Movement point cost to disembark","Enables embarkation for land units","Enables [Embarked] units to enter ocean tiles","[+100]% Production cost of [Military] units","[+100]% Gold cost for [Military] units","[+100]% Faith cost for [Military] units","[+50]% Production towards any buildings that already exist in the Capital","Each city founded increases culture cost of policies [+50]% less than normal","Each city founded increases Science cost of Technologies [+50]% less than normal","[-50]% unhappiness from the number of cities","[+50]% growth [in all cities]","[-50]% Culture cost of natural border growth [in all cities]","[+1 Faith] from each Trade Route","[+1 Production] from each Trade Route","[+1 Science] from each Trade Route","[+1 Culture] from each Trade Route","[+1 Food] from each Trade Route"],
+		"cities": ["Harrapa","Ganeriwala","Mehrgarh","Dholavira","Lothal","Kalibangan","Mohenjo-daro","Kot Bala","Rakhigarhi","Balu","Rupar","Banawali","Kot Diji","Sanauli","Chanhudaro","Surkotada","Manda","Sutkagan Dor","Alamgirpur","Daimabad","Shortugai","Bhirrana","Kunal","Tigrana","Juni Kuran","Khirsara","Shikarpur","Rehman Dheri","Allahdino","Gola Dhoro","Baror"],
+		"uniqueUnits": ["Indus Valley Wanderer","Indus Valley Settler"],
+		"uniqueBuildings": ["Decentralized Communities","Canal Networks"],
 	}
 ]
